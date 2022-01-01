@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main()
+void Build_Assimp_NovaD()
 {
 	std::cout << "Build Assimp" << std::endl;
-	return 0;
 }
